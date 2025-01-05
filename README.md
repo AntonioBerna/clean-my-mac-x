@@ -40,3 +40,13 @@ sudo chmod 700 signature.sh
 ```
 
 and launch it using the `./signature.sh` command in the `Terminal.app` application.
+
+## Star History
+
+<a href="https://star-history.com/#AntonioBerna/clean-my-mac-x&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AntonioBerna/clean-my-mac-x&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AntonioBerna/clean-my-mac-x&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AntonioBerna/clean-my-mac-x&type=Date" />
+ </picture>
+</a>
